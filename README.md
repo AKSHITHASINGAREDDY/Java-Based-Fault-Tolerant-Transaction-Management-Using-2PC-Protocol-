@@ -3,6 +3,7 @@ Developed and tested a Java-based distributed transaction management system usin
 
 ## how to execute 
 1.TC FAILURE:
+
   1.Manager :To execute javac Manager2.java and to run java Manager2
   
   2.Process1:To execute javac Process1.java and to run java Process1
@@ -18,6 +19,7 @@ Developed and tested a Java-based distributed transaction management system usin
   7.run it again after time out
   
 2.NODE FAILURE: 
+  
   1.Manager :To execute javac Manager2.java and to run java Manager2
   
   2.Process1:To execute javac Process1.java and to run java Process1
@@ -31,6 +33,7 @@ Developed and tested a Java-based distributed transaction management system usin
   6.stop the process1 before yes
   
 3.TC FAILURE:
+ 
   1.Manager :To execute javac Manager2.java and to run java Manager2
   
   2.Process1:To execute javac Process1.java and to run java Process1
@@ -46,6 +49,7 @@ Developed and tested a Java-based distributed transaction management system usin
   7.run the coordinator after time out
   
 4.NODE FAILURE:
+  
   1.Manager :To execute javac Manager2.java and to run java Manager2
   
   2.Process1:To execute javac Process1.java and to run java Process1
